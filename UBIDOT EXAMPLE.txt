@@ -1,0 +1,1 @@
+http://translate.ubidots.com/api/postvalue/?token=A1E-pfijQduZcLc8fQhwQFAlBEaGBWJc3N&variable=5c50072cc03f9779f9cbf77e&value=123&context=pt=PPP
